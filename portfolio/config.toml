@@ -41,6 +41,11 @@ metaDataFormat= "yaml"
     url        = "cal"
 
   [[menu.main]]
+    identifier = "reels"
+    name       = "reels"
+    url        = "reels"
+
+  [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "post/"
