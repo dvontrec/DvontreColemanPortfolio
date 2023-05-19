@@ -1,3 +1,6 @@
 [submodule "portfolio/themes/ananke"]
 	path = portfolio/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "portfolio/gruvhugo"]
+	path = portfolio/gruvhugo
+	url = https://gitlab.com/avron/gruvhugo.git
