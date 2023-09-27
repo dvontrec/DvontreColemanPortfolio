@@ -4,3 +4,9 @@
 [submodule "portfolio/gruvhugo"]
 	path = portfolio/gruvhugo
 	url = https://gitlab.com/avron/gruvhugo.git
+[submodule "portfolio/themes/hugo-scroll"]
+	path = portfolio/themes/hugo-scroll
+	url = https://github.com/zjedi/hugo-scroll.git
+[submodule "portfolio/themes/eternity"]
+	path = portfolio/themes/eternity
+	url = https://github.com/boratanrikulu/eternity.git
