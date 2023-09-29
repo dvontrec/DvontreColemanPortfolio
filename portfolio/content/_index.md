@@ -1,5 +1,4 @@
 ---
 desc:
-- Comedian
-- more subtext here
+- Comedian, Writer, Black Man
 ---
