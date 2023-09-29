@@ -68,7 +68,7 @@ menu:
       # url: /media/
       # weight: 2
   - name: Mailing List
-    url: /mailing_list/
+    url: /join/
     weight: 3
   - name: Contact Me 
     url: /contact/

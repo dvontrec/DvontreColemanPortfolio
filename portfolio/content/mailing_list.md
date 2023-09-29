@@ -1,6 +1,6 @@
 ---
-title: mailing List
-url: mailing_list
+title: Mailing List
+url: join
 hideExif: true
 ---
 
