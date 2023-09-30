@@ -117,6 +117,15 @@ url: contact
         <form class="my_form" accept-charset="UTF-8" id="contact_form" onsubmit="return postToGoogleContact()">
             <ul class="simple-form">
                 <li>
+                    <label>Message Type</label>
+                    <select name-"entry.655591075" data-name="Message Type" id="message-type" class="field-select">
+                        <option value="" default></option>
+                        <option value="Booking Request">Booking Request</option>
+                        <option value="Question">Question</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </li>
+                <li>
                     <label>First Name</label>
                     <input type="text" name="entry.39487584" data-name="First Name" id="first_name" placeholder="First Name" class="field-text" required>
                 </li>
@@ -146,6 +155,7 @@ url: contact
       var field2 = $("#last_name").val();
       var field3 = $("#email").val();
       var field4 = $("#message").val();
+      var field5 = $("#message-type").val();
 
       $.ajax({
         url: "https://docs.google.com/forms/u/0/d/e/1FAIpQLScnpWsrHs47T8G8-lkR4Fc09TRonrwFj4HHad6t_yG2IFrfUw/formResponse",
@@ -155,7 +165,8 @@ url: contact
           "entry.39487584": field1,
           "entry.1155815832": field2,
           "entry.184737677": field3,
-          "entry.1425066417": field4
+          "entry.1425066417": field5,
+          "entry.655591075": field5
             
         },
         type: "POST",

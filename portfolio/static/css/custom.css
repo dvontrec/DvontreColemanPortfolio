@@ -2,10 +2,13 @@
     .menu {
         text-align: center!important;
     }
-
+    
     .container {
-        top: -40px
+        top: -40px;
     }
 
+    .hero.is-fullheight.welcome {
+        background-position-y: 0px!important;
+    }
 
 }

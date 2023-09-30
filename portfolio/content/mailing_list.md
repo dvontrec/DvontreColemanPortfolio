@@ -176,7 +176,7 @@ hideExif: true
                     <li>
                         <label>How Did You Hear About Me</label>
                         <select name-"entry.1773004288" data-name="Buzz Origin" id="origin" class="field-select">
-                            <option value="" default>Select one</option>
+                            <option value="" default></option>
                             <option value="Instagram">Instagram</option>
                             <option value="Tik Tok">Tik Tok</option>
                             <option value="Twitter">Twitter</option>
