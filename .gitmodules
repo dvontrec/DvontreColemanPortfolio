@@ -10,3 +10,6 @@
 [submodule "portfolio/themes/eternity"]
 	path = portfolio/themes/eternity
 	url = https://github.com/boratanrikulu/eternity.git
+[submodule "themes/eternity"]
+	path = themes/eternity
+	url = https://github.com/boratanrikulu/eternity.git
