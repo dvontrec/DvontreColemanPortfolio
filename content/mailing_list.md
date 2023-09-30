@@ -183,7 +183,9 @@ hideExif: true
                             <option value="Word of Mouth">Word Of Mouth / Other</option>
                         </select>
                     </li>
-                    <button type="submit" class="form-submit">Send</button>
+                    <li>
+                        <button type="submit" class="form-submit">Send</button>
+                    </li>
                 </ul>
             </form>
         </div>

@@ -141,7 +141,9 @@ url: contact
                     <label>Message</label>
                     <textarea type="text" name="entry.1425066417" data-name="Message" id="message" placeholder="Enter Your Message Here" class="field-text-area" required></textarea>
                 </li>
-                <button type="submit">Send</button>
+                <li>
+                    <button type="submit">Send</button>
+                </li>
             </ul>
         </form>
     </div>
