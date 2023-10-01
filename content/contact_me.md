@@ -110,7 +110,7 @@ url: contact
 </style>
 
 <div>
-<p class="prompt">Send Me a message, Book me. Tell me a secret.  Whatever it is, I'll read it.</p>
+<p class="prompt">Send me a message, Book me. Tell me a secret.  Whatever it is, I'll read it.</p>
 <div class="page_content">
     <img src="/img/dvontre_sitting.jpg" class="form_image"></img>
     <div class="form_div">
