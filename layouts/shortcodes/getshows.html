@@ -1,0 +1,8 @@
+{{ range .Site.Data.events.events }}
+<div>
+    <h3>{{.summary}}</h3>
+    <p>{{.location}}</p>
+    <p>{{(time .start.dateTime).Day}}, {{(time .start.dateTime).Month}}, {{(time .start.dateTime).Year}}</p>
+</div>
+</br>
+{{end}}

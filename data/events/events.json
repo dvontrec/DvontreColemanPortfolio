@@ -1,0 +1,68 @@
+[
+  {
+   "kind": "calendar#event",
+   "etag": "\"3391754621680000\"",
+   "id": "3f0clihd14440j9pk2ctivmqkp",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2YwY2xpaGQxNDQ0MGo5cGsyY3Rpdm1xa3AgMzQwZTY0YmQzMzU0MWVlNjBjODliMDhhZTQ5MjgxYTdkZmY3MGFiZWNiYjY3M2I1NGM1OTI3NDJhYTk2NGEwMEBn",
+   "created": "2023-09-27T21:51:42.000Z",
+   "updated": "2023-09-28T05:01:58.887Z",
+   "summary": "Cobbs with Hella Funny",
+   "location": "Cobb's Comedy Club, 915 Columbus Ave, San Francisco, CA 94133, USA",
+   "creator": {
+    "email": "dvontrec@gmail.com"
+   },
+   "organizer": {
+    "email": "340e64bd33541ee60c89b08ae49281a7dff70abecbb673b54c592742aa964a00@group.calendar.google.com",
+    "displayName": "Comedy Booking",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-11-14T20:00:00-08:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2023-11-14T21:30:00-08:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "3f0clihd14440j9pk2ctivmqkp@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3392038432573000\"",
+   "id": "_60pjcd9g6d2j4b9p8crk4b9k6gpjiba164r32ba36ko30ci16gok4h9l8k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcGpjZDlnNmQyajRiOXA4Y3JrNGI5azZncGppYmExNjRyMzJiYTM2a28zMGNpMTZnb2s0aDlsOGsgMzQwZTY0YmQzMzU0MWVlNjBjODliMDhhZTQ5MjgxYTdkZmY3MGFiZWNiYjY3M2I1NGM1OTI3NDJhYTk2NGEwMEBn",
+   "created": "2023-09-29T19:31:34.000Z",
+   "updated": "2023-09-29T21:22:13.360Z",
+   "summary": "Evensfest in Modesto ",
+   "location": "5801 Stoddard Rd\nModesto, CA, United States",
+   "creator": {
+    "email": "dvontrec@gmail.com"
+   },
+   "organizer": {
+    "email": "340e64bd33541ee60c89b08ae49281a7dff70abecbb673b54c592742aa964a00@group.calendar.google.com",
+    "displayName": "Comedy Booking",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-09-29T18:20:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "end": {
+    "dateTime": "2023-09-29T19:20:00-07:00",
+    "timeZone": "America/Los_Angeles"
+   },
+   "iCalUID": "036503E2-9C7B-4439-A161-C5002A41BE5E",
+   "sequence": 2,
+   "reminders": {
+    "useDefault": false
+   },
+   "eventType": "default"
+  }
+]
